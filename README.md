@@ -66,13 +66,45 @@ This project is designed to be easy to understand for anyone (beginners, recruit
 
 #### ✅ Tenure vs Churn → New customers churn heavily; long-tenured customers are loyal
 
-### Model Building
+## 🤖 Model Building
 
-#### ✅ Applied classification models to predict churn
+### Data Splitting
 
-#### ✅ Train-test split performed
+#### ✅ The dataset was split into training and testing sets to evaluate model performance effectively.
 
-#### ✅ Evaluated using Accuracy, Precision, Recall, and F1-score
+#### ✅ Training set was used to train the models, while the testing set was used to validate unseen data.
+
+### Model Selection
+
+### Multiple classification models were applied to predict churn, including:
+
+#### ✅ Logistic Regression
+
+#### ✅ Random Forest
+
+### Feature Encoding & Scaling
+
+#### ✅ Categorical features were encoded using Label Encoding and One-Hot Encoding.
+
+#### ✅ Numerical features were standardized/scaled where required to improve model performance.
+
+### Model Evaluation
+
+#### Models were evaluated using:
+
+##### ✅ Accuracy → Overall correctness of predictions
+
+##### ✅ Precision → How many predicted churns were actually churns
+
+##### ✅ Recall (Sensitivity) → How many actual churns were correctly predicted
+
+##### ✅ F1-Score → Balance between Precision and Recall
+
+## Best Performing Model
+
+#### ✅ Among the tested models, the one with the highest balance of Accuracy, Precision, Recall, and F1-score (Random Forest model after Hyper Parameter Tunning) was selected as the final churn prediction model.
+
+#### ✅ This model can be used by telecom companies to identify high-risk customers and take proactive actions.
 
 ## 📊 Key Insights
 
