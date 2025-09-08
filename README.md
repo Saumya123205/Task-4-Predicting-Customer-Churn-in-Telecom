@@ -1,5 +1,5 @@
 # 📌 Predicting Customer Churn in Telecom
-<img width="280" height="400" alt="Infograpfic image for Task-4" src="https://github.com/user-attachments/assets/da8a7559-2a7c-4ef0-87a8-d171d56b2e69" />
+<img width="320" height="400" alt="Infograpfic image for Task-4" src="https://github.com/user-attachments/assets/da8a7559-2a7c-4ef0-87a8-d171d56b2e69" />
 
 
 ## 📖 Project Overview
